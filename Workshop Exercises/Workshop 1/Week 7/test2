@@ -1,0 +1,13 @@
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+"""
+Created on Tue Nov  3 15:28:45 2020
+
+@author: Matthew
+"""
+
+message = 'my pet frog is'
+age = 42
+print('The data type of my message is ', type(message))
+print('The data type of age is', type(age))
+print(message + ' ' + str(age))
